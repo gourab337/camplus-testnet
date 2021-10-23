@@ -63,8 +63,9 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-01.png" alt="iPhone Feature 01">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">A Platform Offering Emergency Contacts, Hostel Services, E-Books, and Notices at A Single Place!</p>
+									<h3 class="mt-0 mb-16">Want To Maximize Your College Experience?</h3>
+									<p class="m-0">Camp+ offers Exclusive Features in a Compact Manner to help you have a Hassle-Free Campus Experience.
+									</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -75,8 +76,9 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-02.png" alt="iPhone Feature 02">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Launching Security Features Soon</h3>
+									<p class="m-0">Maintain Your Safety by Co-Ordinating Incoming Deliveries and Get All Emergency College Contacts at a Single Place.
+									</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -87,8 +89,9 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-03.png" alt="iPhone Feature 03">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Launching Features to Ease the Facility Maintenance Process</h3>
+									<p class="m-0">Book Room Cleaning and Maintenance Services, and Save Your Mess’ Food By Selecting Dates of Absence from the Campus.
+									</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -99,8 +102,9 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-04.png" alt="iPhone Feature 04">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Launching Notice Features to Keep You Updated</h3>
+									<p class="m-0">Get your Notices and E-Books on the app to ensure that you do not go into a frenzy before the Upcoming Submission and Test Dates.
+									</p>
 								</div>
 							</div>
 						</div>
