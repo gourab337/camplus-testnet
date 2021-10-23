@@ -35,8 +35,8 @@
                 <div class="container-sm">
                     <div class="hero-inner">
 						<div class="hero-copy">
-	                        <h1 class="hero-title mt-0">Landing template for startups</h1>
-	                        <p class="hero-paragraph">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+	                        <h1 class="hero-title mt-0">Introducing Camp+ - Bridging the Gap Between Campus Services and Students</h1>
+	                        <p class="hero-paragraph">Make your life easier with an all-in-one app to manage your daily routine and connect with Profs, Clubs, and Mentors on the campus.</p>
 	                        <div class="hero-cta">
 								<a class="button button-primary button-wide-mobile" href="#">Get early access</a>
 							</div>
@@ -64,7 +64,7 @@
 								</div>
 								<div class="feature-extended-body is-revealing">
 									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<p class="m-0">A Platform Offering Emergency Contacts, Hostel Services, E-Books, and Notices at A Single Place!</p>
 								</div>
 							</div>
 							<div class="feature-extended">
