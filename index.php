@@ -123,7 +123,8 @@
 						<div class="cta-inner section-inner">
 							<div class="cta-header text-center">
 								<h2 class="section-title mt-0">Stay in the know</h2>
-								<p class="section-paragraph">Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation.</p>
+								<p class="section-paragraph">The developers of Camp+ work regularly to roll out new features. Join our Discord Server and get early access to the app.
+								</p>
 								<div class="cta-cta">
 									<a class="button button-primary button-wide-mobile" href="#">Get early access</a>
 								</div>
